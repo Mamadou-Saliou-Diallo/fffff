@@ -1,0 +1,12 @@
+body{
+    background-color: antiquewhite;
+}
+.inpu-name{
+    margin: auto;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid black;
+    display: inline-block;
+    width: 200px;
+}
